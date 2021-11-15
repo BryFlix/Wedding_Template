@@ -1,0 +1,43 @@
+.preloader .loader i,
+.btn1:hover,
+.peoplesection .peopleiteminner .socialicons a i,
+.eventsection .eventiteminner span,
+.storysection .storyitem i,
+.storysection .storytext h3,
+.couplesection .socialicons a i,
+.couplesection .couple i.fa-heart,
+.couplesection .couple h3,
+body.dark .header .nav ul li a.active,
+.header .nav ul li a.active,
+body.dark .header .nav ul li a:hover,
+.header .nav ul li a:hover{
+    color: #cc3b3b;
+}
+
+.btn1,
+.peoplesection .peopleiteminner .socialicons a i,
+.eventsection .eventiteminner::before,
+.couplesection .socialicons a i,
+.couplesection .couple img{
+    border-color: #cc3b3b;
+}
+
+.preloader .loader:before{
+    border-right-color: #cc3b3b;
+}
+
+.setting .settingtogglebtn,
+.btn1,
+.rsvpsection,
+.peoplesection .peopleiteminner .socialicons a:hover i,
+body.dark .peoplesection .filterbtn.active,
+.peoplesection .filterbtn.active,
+.eventsection,
+.couplesection .socialicons a:hover i{
+    background-color: #cc3b3b;
+}
+
+.eventsection .eventiteminner img,
+.footer .footercontent .couplename img{
+    filter: hue-rotate(30deg);
+}
